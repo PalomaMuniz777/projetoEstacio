@@ -1,5 +1,5 @@
 {
-  "name": "rocketseat-maratonaDev-3",
+  "name": "Doe Sangue Estácio",
   "version": "1.0.0",
   "description": "<h1 align=\"center\"> \t<img alt=\"Imagem de DOE\" src=\"logo.png\" width=\"150px\" /> </h1>",
   "main": "scripts.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MuriloChaves/rocketseat-maratonaDev-3.git"
+    "url": "git+https://github.com/PalomaMuniz777/projetoEstacio"
   },
   "keywords": [],
-  "author": "",
+  "author": "Paloma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MuriloChaves/rocketseat-maratonaDev-3/issues"
+    "url": "https://github.com/PalomaMuniz777/projetoEstacio/issues"
   },
-  "homepage": "https://github.com/MuriloChaves/rocketseat-maratonaDev-3#readme",
+  "homepage": "https://github.com/PalomaMuniz777/projetoEstacio#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.3",

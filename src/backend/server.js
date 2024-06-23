@@ -29,8 +29,8 @@ nunjucks.configure("../frontend/", {
 // lista de doadores: array
 const donors = [
     {
-        name: "Diego Fernandes",
-        blood: "AB+"
+        name: "Maria Aparecida Muniz Mendes",
+        blood: "A+"
     },
     {
         name: "Cleiton Souza",
