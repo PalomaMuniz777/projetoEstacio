@@ -6,7 +6,7 @@
 	Um sistema minimalista para cadastrar doadores de sangue.
 </h3>
 
-## :rocket: Instalação
+## :Instalação:
 
 1. Faça a instalação do editor de código [VS Code](https://code.visualstudio.com);
 2. Utilize o [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) com as ferramentas de inspeção de código web;
@@ -57,7 +57,6 @@
     Este projeto visa alcançar mais pessoas por meio de sua disponibilidade na web, facilitando a localização de doadores com tipos sanguíneos específicos. Além disso, permite o contato direto via e-mail quando houver necessidade de doações de um determinado tipo sanguíneo.
 </p>
 
-
 ### Extensões
 
 * `Live Server`: Ritwick Dey - permite atualização automática da conteúdo da página `HTML`.
@@ -68,6 +67,6 @@
 * [Google Fonts](https://fonts.google.com/);
 * [Imgur](https://imgur.com/).
 
-## :memo: Licença
+## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
