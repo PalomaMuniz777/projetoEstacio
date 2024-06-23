@@ -2,26 +2,26 @@
   "name": "Doe Sangue Estácio",
   "version": "1.0.0",
   "description": "<h1 align=\"center\"> \t<img alt=\"Imagem de DOE\" src=\"logo.png\" width=\"150px\" /> </h1>",
-  "main": "scripts.js",
+  "main": "server.js",  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "nodemon server.js" 
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PalomaMuniz777/projetoEstacio"
+    "url": "git+https://github.com/PalomaMuniz777/projetoEstacio.git" 
   },
   "keywords": [],
-  "author": "Paloma",
+  "author": "Paloma Muniz Mendes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PalomaMuniz777/projetoEstacio/issues"
+    "url": "https://github.com/PalomaMuniz777/projetoEstacio/issues" 
   },
-  "homepage": "https://github.com/PalomaMuniz777/projetoEstacio#readme",
+  "homepage": "https://github.com/PalomaMuniz777/projetoEstacio#readme", 
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.1",  
     "nodemon": "^2.0.3",
-    "nunjucks": "^3.2.1",
-    "pg": "^8.0.3"
+    "nunjucks": "^3.2.1", 
+    "pg": "^8.0.3" 
   }
 }
