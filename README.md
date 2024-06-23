@@ -1,7 +1,7 @@
 <h1 align="center">
 	<img alt="Imagem de DOE" src="./src/frontend/public/logo.png" width="150px" />
 </h1>
-![Front](https://github.com/PalomaMuniz777/projetoEstacio/assets/157491085/0422968e-4b43-4016-8a9c-28a04c7762ee)
+(https://github.com/PalomaMuniz777/projetoEstacio/assets/157491085/0422968e-4b43-4016-8a9c-28a04c7762ee)
 
 <h3 align="center">
 	Um sistema minimalista para cadastrar doadores de sangue.
