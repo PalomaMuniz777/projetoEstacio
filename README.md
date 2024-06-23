@@ -1,7 +1,6 @@
 <h1 align="center">
 	<img alt="Imagem de DOE" src="./src/frontend/public/logo.png" width="150px" />
 </h1>
-[(https://github.com/PalomaMuniz777/projetoEstacio/assets/157491085/0422968e-4b43-4016-8a9c-28a04c7762ee)](https://www.canva.com/design/DAGI_QiNjDI/nnHCXfl8KFdMVzL92DCArQ/edit?utm_content=DAGI_QiNjDI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="center">
 	Um sistema minimalista para cadastrar doadores de sangue.
